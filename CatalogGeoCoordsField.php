@@ -20,7 +20,7 @@
  * @license    GPL 
  * @filesource
  */
-
+// New Comment
 // class to manipulate the field info to be as we want it to be, to render it and to make editing possible.
 class CatalogGeoCoordsField extends Backend {
 
